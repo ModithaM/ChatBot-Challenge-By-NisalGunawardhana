@@ -39,7 +39,7 @@ return [
 
     'openai' => [
     'api_url' => env('https://ai-it235399904909ai257215549618.openai.azure.com/'),
-    'api_key' => env('1YVMTjwuqGGIgrKZ5zHgoXA1fG23hoqW9ecrsXrddneZsmLW3MouJQQJ99ALACHYHv6XJ3w3AAAAACOGOVy3'),
+    'api_key' => env(''),
      ],
 
 ];
