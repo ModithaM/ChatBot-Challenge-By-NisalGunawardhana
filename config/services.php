@@ -37,9 +37,9 @@ return [
 
     //uncomment this code
 
-    // 'openai' => [
-    //     'api_url' => env('AZURE_BOT_API_URL'),
-    //     'api_key' => env('AZURE_BOT_API_KEY'),
-    // ],
+    'openai' => [
+    'api_url' => env('https://ai-it235399904909ai257215549618.openai.azure.com/'),
+    'api_key' => env(''),
+     ],
 
 ];
